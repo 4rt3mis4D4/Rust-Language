@@ -1,6 +1,6 @@
 # 🦀 Rust Exercises Roadmap
 
-Repositório dedicado ao estudo prático da linguagem **Rust**, com foco em evolução progressiva — do básico ao avançado — enfatizando principalmente **ownership**, **borrowing** e **gestão de memória**.
+Repositório dedicado ao estudo prático da linguagem **Rust**, com foco em evolução progressiva, do básico ao avançado, enfatizando principalmente **ownership**, **borrowing** e **gestão de memória**.
 
 ---
 
@@ -69,4 +69,3 @@ Aplicação prática:
 - Rust (stable)
 - Cargo (gerenciador de pacotes)
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
