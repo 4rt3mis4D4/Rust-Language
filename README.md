@@ -68,4 +68,3 @@ Aplicação prática:
 
 - Rust (stable)
 - Cargo (gerenciador de pacotes)
-```bash
