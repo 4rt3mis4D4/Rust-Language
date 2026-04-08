@@ -21,7 +21,7 @@ Os exercícios estão organizados em **6 fases progressivas**, combinando teoria
 
 ---
 
-### 📌 Fase 1: Tipos de Dados e Strings (1–20)
+### 📌 Tipos de Dados e Strings 
 Fundamentos de como Rust representa dados:
 
 - Tipos escalares (`i32`, `u32`, `f64`, `char`)
@@ -30,16 +30,9 @@ Fundamentos de como Rust representa dados:
 - Conversões de tipos
 - Noções básicas de memória
 
-📌 Aplicações práticas:
-- Operações matemáticas com tuplas
-- Conversor de temperatura
-- Cálculo de distância entre pontos
-- Manipulação e análise de strings
-- Simulação de estruturas simples (pilha)
-
 ---
 
-### 🔁 Fase 2: Variáveis, Mutabilidade e Shadowing (21–40)
+### 🔁 Variáveis, Mutabilidade e Shadowing 
 Controle de estado e ciclo de vida de variáveis:
 
 - Imutabilidade por padrão
@@ -47,16 +40,10 @@ Controle de estado e ciclo de vida de variáveis:
 - Shadowing
 - Constantes (`const`)
 - Escopo de variáveis
-
-📌 Aplicações práticas:
-- Sistemas de pontuação
-- Cálculo de área e juros
-- Transformações com shadowing
-- Regras de escopo na prática
-
+  
 ---
 
-### 🖥️ Fase 3: Entrada e Saída (I/O) (41–60)
+### 🖥️ Entrada e Saída (I/O) 
 Interação com o usuário e formatação:
 
 - `println!`, `print!`, `format!`
@@ -65,16 +52,9 @@ Interação com o usuário e formatação:
 - Formatação avançada
 - Tratamento básico de erros
 
-📌 Projetos:
-- Calculadora interativa
-- Recibo formatado
-- Contador de vogais
-- Tabuada
-- Simulação de progresso
-
 ---
 
-### 🔄 Fase 4: Condições e Repetições (61–80)
+### 🔄 Condições e Repetições 
 Controle de fluxo e lógica:
 
 - `if`, `else`
@@ -83,16 +63,9 @@ Controle de fluxo e lógica:
 - `break` e `continue`
 - Pattern matching
 
-📌 Desafios clássicos:
-- FizzBuzz
-- Fibonacci
-- Jogo de adivinhação
-- Menu interativo
-- Pirâmide de asteriscos
-
 ---
 
-### 🔐 Fase 5: Funções, Ownership e Borrowing (81–95)
+### 🔐 Funções, Ownership e Borrowing 
 O diferencial do Rust:
 
 - Definição de funções
@@ -101,23 +74,14 @@ O diferencial do Rust:
 - Regras do borrow checker
 - Slices e lifetimes básicos
 
-📌 Exercícios:
-- Manipulação segura de `String` e `Vec`
-- Algoritmos (Bubble Sort)
-- Palíndromos
-- Busca sem perda de ownership
-
 ---
 
-### 💾 Fase 6: Arquivos e Projeto Final (96–100)
+### 💾 Arquivos e Projeto Final 
 Persistência de dados:
 
 - Leitura e escrita de arquivos
 - Append com `OpenOptions`
 - Processamento de dados
-
-📌 Projeto final:
-- ✅ Sistema de **To-Do List** com persistência em arquivo
 
 ---
 
