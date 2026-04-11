@@ -1,0 +1,8 @@
+[2023-10-27 10:00:01] INFO: Sistema inicializado com sucesso.
+[2023-10-27 10:05:22] AVISO: Uso de memória acima de 80%.
+[2023-10-27 10:10:45] ERRO: Falha ao conectar ao banco de dados.
+[2023-10-27 10:12:10] INFO: Tentando reconectar...
+[2023-10-27 10:12:15] ERRO: Timeout na requisição da API externa.
+[2023-10-27 10:15:00] INFO: Backup diário concluído.
+[2023-10-27 10:20:33] ERRO: Permissão negada ao acessar /etc/config.
+[2023-10-27 10:30:00] INFO: Auditoria de segurança finalizada.
